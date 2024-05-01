@@ -1,3 +1,3 @@
 function verif() {
-alert("3info1")
+alert("ودرني مش راجل")
 }
