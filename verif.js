@@ -1,3 +1,3 @@
 function verif() {
-alert("انس الجمل بهيم و الكل من الدباغي")
+alert("3info1")
 }
